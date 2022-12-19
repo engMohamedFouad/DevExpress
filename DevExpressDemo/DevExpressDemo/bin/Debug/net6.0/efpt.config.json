@@ -1,0 +1,1137 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FiniexWebDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DevExpressDemo",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AbsenceOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AccountBalance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AccountBalanceDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AdministrativeDecisions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[All_Reports_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoiceImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoiceJions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesDetailsbak]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesDetailsPayment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesDetailsPaymentTemp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesDetailsTemp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllInvoicesTemp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllTransUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllVouchers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AllVouchersDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Analysis_reports]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoleClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserLogins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserTokens]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AttendanceEmployessAutomated]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AttendanceEmployessPeriod]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BankData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BaracnhAndWarehouseReleted]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BloodType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BonusOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BonusTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BranchsAndWarehouse]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CarsData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChecksInventory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComissionBank]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComissionBankCard]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CompanyInformation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Contracts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ContractStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ContractType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CostCenterBalance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CostProduction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Country]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Currency]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustomersBranch]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustomersPoints]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Deduction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DeductionDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DeductionOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DeductionType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DegreesData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Departments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DistributionExpenses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Documents]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DocumentType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmailSettings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpLang]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmployeeCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmployeeCosting]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmployeesDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmployeesDetailsFamily]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmployessPeriod]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EmpStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ErrorsLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Evaluation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EvaluationEmployees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExpensesProduction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExpensesPurchase_Sales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Experience]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FinancialYear]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FormsName]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FxiedAssets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FxiedAssetsAdded]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FxiedAssetsDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gender]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GroupOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Holidays]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IdentityUserPermissions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImagesStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InstallmentMonthly]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoicePurchaseDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IPAddressDevice]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemRelatedAcc]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemsAlternative]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemsJoin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemsJoinPOS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemsPersonality]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemsProduction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Job]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Languages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LeaveDays]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LeaveOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LeaveType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LkpTables]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Loans]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoansDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LoansForms]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LogoHR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MainAccCompany]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MainAccCompanyHR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MainAccPurExp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MainData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MainDataDefault]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MaritalStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Module]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MoveGaid]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MoveGaidDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OhdaOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OpenBalanceJournal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OpenBalanceJournalDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OpenBalanceLeave]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OthersForms]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OverTimeOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PagesNo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PassportData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PassportType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PayRoll]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PeriodsAttan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Permission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermissionExit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermissionsListHR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PrintContract]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Professions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PromotionJob]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PromotionSalary]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProviderCustomers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Qualifications]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Quantity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuantityBatch]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Reconciliations]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReconciliationsDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RecordsCompany]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RelatedNames]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Religion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoleModulePermissions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SalesManInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SalesmanQuantity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettingBarcode]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettingColor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettingSystem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettingSystemHR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SettlementEmp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SkillLevel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Skills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SMSSettings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SocialnsuranceAmount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sponsors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SubModule]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Synchronization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SynchronizationConflicts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SynchronizationCount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SynchronizationUpdate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TasksMessages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tickets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Training]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TreeAccount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TreeAccountDefualt]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrialBal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TypeOhda]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UnitsBarcodes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UnitsItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserDataPermission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserDataPermissionHR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserModulePermissions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsersData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsersLogin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InventoryOfCash1]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[InventoryOfChecks1]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[MovementCash]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[QuantityStocks]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[QuantityStocks1]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ReturnSalesInvoice]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_AttendanceAutomated]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_CarsData]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_Complex]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_Contract_Passport]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_ContractPromotion]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_EvaluationPer]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_ExpenssInvoice]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_FexidAssetsDepration]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_FexidAsstes]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_ItemsJoin]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_ItemsProductionUnit]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_LoansForm]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_PermissionExit]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[View_TransferProduction]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAbsence]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAdministDecisions]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllInvoice]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllInvoice_InvoiceDetails]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllInvoice_InvoiceDetailstemp]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllMovement]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllTranUser]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllVouchers]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAllVouchers_VouchersDetails]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewAutoAttendance]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewBalanceCostCenter]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewBouns]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewBranchsAndWarehouse]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfAccount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfAccountCustomer]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfAccountEmp]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfCostCenter]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfCostCenterDetails]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewChartOfCostCenterTotal]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewCompanyData]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewContract]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewDebitOrCredit]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewDedctionDetials]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewDeducation]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewDueDate]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewEmployees]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewEmployessStatus]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewExperience]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewFamily]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewGaidEntry]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewGetAllBarcodes]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewIndexOfItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewIndexOfItemsAndWithBatch]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewItemsPersonality]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewItemsRequiredQuantity]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewLanguages]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewLeave]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewLoanDetials]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewLoans]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewLoansInstallment]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewMainData]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewManagerDep]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewMovementsEntry]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewMovementsItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewNetSalesDueDate]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewOhda]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewOpenBalanceJournal]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewOpenBalanceLeave]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewOverTime]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPaidInvoicesVouchers]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPassport]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPayroll]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPrintCustomerProvider]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPrintSalesmen]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewProfitItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPromotion]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewPromotionSalary]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewQuantityJoin]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewReconAndRecondetails]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewReconciliations]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewReivewBalance]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewReturnSalesBalanceNoPost]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesBalanceDueDate]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesBalanceNoPost]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesInvoice]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesInvoiceDueDate]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesPriceItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSalesReturnDueDate]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSettlement]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSkills]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSocialnsuranceAmount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewStatmentsBalance]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSumQuantityItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewSumVochersReceipt]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewTickets]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewTradingAccount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewTraninig]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewTransferQuotationSales]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewTrialBalance]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewUnitItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewUnits]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewUsersBranch]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewVAT]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewWarehouseItems]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ViewWarwHouseRelted]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "VMI919313.FiniexWebDb",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
