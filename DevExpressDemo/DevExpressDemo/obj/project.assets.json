@@ -5679,17 +5679,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
+      "projectUniqueName": "D:\\Projects\\DevExpressDemo\\DevExpress\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
       "projectName": "DevExpressDemo",
-      "projectPath": "D:\\Projects\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
+      "projectPath": "D:\\Projects\\DevExpressDemo\\DevExpress\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
       "packagesPath": "C:\\Users\\C.m™\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DevExpressDemo\\DevExpressDemo\\obj\\",
+      "outputPath": "D:\\Projects\\DevExpressDemo\\DevExpress\\DevExpressDemo\\DevExpressDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "D:\\Projects\\DevExpressDemo\\NuGet.Config",
+        "D:\\Projects\\DevExpressDemo\\DevExpress\\DevExpressDemo\\NuGet.Config",
         "C:\\Users\\C.m™\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

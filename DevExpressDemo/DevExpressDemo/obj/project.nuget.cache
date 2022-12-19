@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iem72T6DxoSV+EZ6zlq/H+UVCGJBHpnp8XL8jelZ4LS6Jvy5HWIr1ISlBaLaiyI0feCnEL5t3sl68wBVxojrbw==",
+  "dgSpecHash": "f85jbsTqR5QJBd4UW4LWAi+GYohOtmkrudvLCMeMMG++oj3WZrLujSmq1kYxgeamMD3NqFAczwZKQAXaoGa5mQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
+  "projectFilePath": "D:\\Projects\\DevExpressDemo\\DevExpress\\DevExpressDemo\\DevExpressDemo\\DevExpressDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\C.m™\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\C.m™\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
