@@ -45,6 +45,10 @@ namespace DevExpressDemo.Controllers
                     {
                         des.IsDoneValue = "مرحل";
                     }
+                    else
+                    {
+                        des.IsDoneValue = "غير مرحل";
+                    }
                     //part for complete the data of companyinfo and Journal
                     var journalResponseCompanyInfo = _mapper.Map<JournalResponseAndCompanyInfoDTO>(companyinformation);
                     journalResponseCompanyInfo.MoveId = des.MoveId;
