@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DevExpressDemo
 build_property.RootNamespace = DevExpressDemo
-build_property.ProjectDir = D:\Projects\DevExpressDemo\DevExpress\DevExpressDemo\DevExpressDemo\
+build_property.ProjectDir = D:\Projects\DevExpressFirstDemo\DevExpress\DevExpressDemo\DevExpressDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\DevExpressDemo\DevExpress\DevExpressDemo\DevExpressDemo
+build_property.MSBuildProjectDirectory = D:\Projects\DevExpressFirstDemo\DevExpress\DevExpressDemo\DevExpressDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Dashboard/Index.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/BranchReportViewer.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/BranchReportViewer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCcmFuY2hSZXBvcnRWaWV3ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Index.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Privacy.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/PurchaseInvoiceViewer.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/PurchaseInvoiceViewer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQdXJjaGFzZUludm9pY2VWaWV3ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Viewer.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Home/Viewer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Journal/GetJournalListReport.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Journal/GetJournalListReport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91cm5hbFxHZXRKb3VybmFsTGlzdFJlcG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/Error.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_DevExtremeLayout.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_DevExtremeLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZXZFeHRyZW1lTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/SystemCards/GetItemUnits.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/SystemCards/GetItemUnits.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3lzdGVtQ2FyZHNcR2V0SXRlbVVuaXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/_ViewImports.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/_ViewStart.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DevExpressDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_Layout.cshtml]
+[D:/Projects/DevExpressFirstDemo/DevExpress/DevExpressDemo/DevExpressDemo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7eykn8ng0i
