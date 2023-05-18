@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using DevExpressDemo.Data;
 using DevExpressDemo.Helper;
 using DevExpressDemo.ModelsDTO;
 using DevExpressDemo.Reports;
@@ -17,7 +16,7 @@ namespace DevExpressDemo.Controllers
         private readonly ICompanyInformationService _companyInformationService;
         FiniexApiHelper _finiexApi = new FiniexApiHelper();
         HttpClient client = new HttpClient();
-        public SystemCardsController(ILogger<SystemCardsController> logger, FiniexWebDbContext context, IMapper mapper, ICompanyInformationService companyInformationService)
+        public SystemCardsController(ILogger<SystemCardsController> logger, IMapper mapper, ICompanyInformationService companyInformationService)
         {
             _mapper = mapper;
             _companyInformationService = companyInformationService;

@@ -1,11 +1,9 @@
 ﻿using DevExpressDemo.Helper;
-using DevExpressDemo.Models;
 using DevExpressDemo.ModelsDTO;
 using DevExpressDemo.Reports;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Diagnostics;
 using System.Net.Http.Headers;
 namespace DevExpressDemo.Controllers
 {
@@ -87,12 +85,6 @@ namespace DevExpressDemo.Controllers
             //HttpContext.Session.Clear();
             //HttpContext.Session.SetString("JWToken", id);
             return Redirect("~/Home/Index");
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

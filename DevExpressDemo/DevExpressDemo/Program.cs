@@ -1,20 +1,18 @@
 using AutoMapper;
 using DevExpress.AspNetCore;
 using DevExpress.AspNetCore.Reporting;
-using DevExpressDemo.Data;
 using DevExpressDemo.Helper;
 using DevExpressDemo.Services.Implementation;
 using DevExpressDemo.Services.Interface;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//connect to the SqlServer
-builder.Services.AddDbContext<FiniexWebDbContext>(option =>
-{
-    option.UseSqlServer(builder.Configuration.GetConnectionString("localhost_FiniexWebDb_Connection"));
-});
+////connect to the SqlServer
+//builder.Services.AddDbContext<FiniexWebDbContext>(option =>
+//{
+//    option.UseSqlServer(builder.Configuration.GetConnectionString("localhost_FiniexWebDb_Connection"));
+//});
 
 // Add services to the container.
 builder.Services.AddControllersWithViews().AddJsonOptions(options => options.JsonSerializerOptions.PropertyNamingPolicy = null);
